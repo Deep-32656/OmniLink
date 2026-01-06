@@ -5,7 +5,7 @@ When **Atlion** acquired **SportsBar**, the goal was market dominance and the at
 
 Because the data schemas and structures do not align, we are currently unable to perform collective operations or extract unified business insights. This repository serves as the central hub for the migration and synchronization project required to bridge the gap between these two digital ecosystems.
 
-👨‍💼 : Peter Mukherjee( Manager )
+👨‍💼 : Peter Pandey ( Manager )
 
 💻 : Sonu Smith ( Data Engineer )
 
@@ -208,4 +208,3 @@ Execute the notebooks in sequence to trigger the **End-to-End ETL** flow:
 
 ---
 
-<p align="right"><a href="#top">Back to Top</a></p>
