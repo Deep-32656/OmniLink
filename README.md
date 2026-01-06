@@ -142,6 +142,14 @@ delta_table.alias("target").merge(
 
 
 ## 📊 Dashboard & Insights
+### 🔍 Sales Insight 
+![Dashboard1](images/sales_insight1.png)
+![Dashboard2](images/sales_insight2.png)
+### 🔍 Product Insight
+![Dashboard4](images/customer_insight1.png)
+![Dashboard4](images/customer_insight2.png)
+### 🔍 Customer Insight
+![Dashboard5](images/product_insight.png)
 
 
 ## 🏃 Getting Started: How to Run This Project
